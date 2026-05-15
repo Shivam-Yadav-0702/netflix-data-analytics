@@ -38,8 +38,8 @@ distribution, genre popularity, and audience targeting patterns.
 Netflix Titles dataset (netflix_titles.csv)
 
 ## 📎 Presentation & Report
-- 📄 [View Report (PDF)](./netflix-report.pdf)  
-- 📊 [View Presentation (PPT)](./netflix-presentation.pptx)
+- 📄 [View Report (PDF)](./Netflix_Analytics_PPT.pdf)  
+- 📊 [View Presentation (PPT)](./Netflix_Analytics_Report.pptx)
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone <repo-url>`
