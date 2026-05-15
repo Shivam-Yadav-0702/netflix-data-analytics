@@ -31,6 +31,9 @@ distribution, genre popularity, and audience targeting patterns.
 - Most content targets adults (TV-MA) and teens (TV-14)
 - Dramas, Comedies & Documentaries are the top genres
 
+  ## 📸 Dashboard Preview
+![Netflix Dashboard](./dashboard.png)
+
 ## 📁 Dataset
 Netflix Titles dataset (netflix_titles.csv)
 
